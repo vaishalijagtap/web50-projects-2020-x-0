@@ -13,23 +13,23 @@ These are files containing HTML Layout.
 	
 ## home.html: Homepage of website
 contains one unordered list, one table, one stylesheet file, use Bootstrap 4 on webpage and two Bootstrap columns for layout purposes using Bootstrap’s grid model.
-[sceernshot] (https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/homepage.PNG)
-[screenshot for compressed version] (https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/homepage-compressed.PNG)
+![homepage](https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/homepage.PNG)
+![homepage-compressed](https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/homepage-compressed.PNG)
 ## aboutus.html: About Us
 contains table, image, one stylesheet file, inline css for selection of p tag
-[sceernshot] (https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/aboutus.PNG)
+![aboutus](https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/aboutus.PNG)
 	
 ## contactus.html: Contact Us
 contains table, image, nested unordered list	
-[sceernshot] (https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/contactus.PNG)
+![contactus](https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/contactus.PNG)
 
 ## register.html: Registration form
 use of datalist, input, button tags, SCSS variable for button, li, sections css, one stylesheet file 
-[sceernshot] (https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/register.PNG)
+![register](https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/register.PNG)
 
 ## feedback.html: Feedback page
 one stylesheet file, use of h2, ordered list
-[sceernshot] (https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/feedback.PNG)
+![feedback](https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-0/master/screens/feedback.PNG)
 
 ## css folder
 cotains css and SCSS variable

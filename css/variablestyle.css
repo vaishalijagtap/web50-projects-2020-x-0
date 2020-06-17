@@ -1,0 +1,33 @@
+.section1 {
+  color: blue; }
+
+.section2 {
+  color: blue;
+  font-weight: bold; }
+
+div ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+div li {
+  display: inline-block; }
+div a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none; }
+
+.basicBtn, .button-cancel, .button-submit {
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer; }
+
+.button-cancel {
+  background-color: red; }
+
+.button-submit {
+  background-color: green;
+  color: white; }
+
+/*# sourceMappingURL=variablestyle.css.map */

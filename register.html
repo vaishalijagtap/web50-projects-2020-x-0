@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Webpage - Register</title>
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/variablestyle.css">
+	</head>
+	<body>
+		<table align="center" width="70%">
+			<tr>
+				<td colspan="5">
+					<table align="center" width="100%" cellpadding="5" cellspacing="5" border="0">
+						<tr class="navigation">
+							<td><a href="home.html">Home</a></td>
+							<td><a href="aboutus.html">About Us</a></td>
+							<td><a href="contactus.html">Contact Us</td>
+							<td><a class="active" href="register.html">Register</a></td>
+							<td><a href="feedback.html">Feedback</a></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="5"><h3>Fill below information to Register!!</h3></td>
+			</tr>
+			<tr id="fromSection">
+				<td><input type="text" name="name" placeholder="Name" /></td>
+				<td><input type="number" name="age" placeholder="Age" /></td>
+				<td><input type="text" name="username" placeholder="Username" /></td>
+				<td><input type="password" name="password" placeholder="Password" /></td>
+				<td><input type="text" list="countries" name="country" placeholder="Country" />
+					<datalist id="countries">
+						<select>
+							<option value="India">India</option>
+							<option value="United States">United States</option>
+							<option value="United Kingdom">United Kingdom</option>
+							<option value="Germany">Germany</option>
+							<option value="France">France</option>
+						</select>
+					</datalist>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="5"><button id="submitBtn" class="button-submit">Click to Register!!</button>&nbsp;<button class="button-cancel">Cancel</button></td>
+			</tr>
+		</table>
+	</body>
+</html>

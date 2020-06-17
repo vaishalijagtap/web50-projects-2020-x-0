@@ -1,0 +1,55 @@
+.navigation {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.navigation a {
+	background-color: #ffc000;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.navigation a:hover {
+	background-color: #f44336;
+	text-decoration: underline;
+}
+
+.navigation a.active {
+	background-color: #f44336;
+}
+
+ul li {
+	color: red;
+}
+
+ul > li, ol > li {
+	padding-top: 20px;
+}
+
+input[type=text], input[type=password], input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#submitBtn {
+	padding: 16px 32px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+@media (min-width: 800px) {
+	h1::before {
+		content: "Welcome to My Web Page!!"
+	}
+}
+@media (max-width: 799px) {
+	h1::before {
+		content: "Welcome!!"
+	}
+}
